@@ -1,4 +1,4 @@
-# Hi, I’m Anilkumar 👋
+# 👋  Hi, I’m Anilkumar
 
 I design and lead the development of large-scale infrastructure and platform systems that enable organizations to operate reliably while moving fast at scale.
 
@@ -8,7 +8,9 @@ Earlier in my career, I worked deeply in network and cloud security. That founda
 
 ## Impact at Scale
 
-My work focuses on building platform systems and operating models that scale across teams, regions, and time. I’ve designed and led initiatives where shared infrastructure and orchestration platforms reduced delivery timelines from months to weeks, standardized execution across dozens of teams, and significantly lowered operational load through automation and guardrails. These systems are built to evolve, support independent team velocity, and remain reliable under real-world production stress.
+Most of my work is focused on systems that change how organizations operate, not just how individual services run. I’ve led platform and orchestration initiatives that reduced complex delivery timelines from months to weeks by standardizing execution and ownership across dozens of teams, while significantly lowering operational load through automation and guardrails. Much of this work involved aligning senior engineers and platform teams on shared abstractions, execution models, and long-term ownership.
+
+These systems are designed to evolve, support independent team velocity, and remain reliable under real production stress.
 
 ### Scope of Work
   
@@ -29,11 +31,6 @@ Earlier in my career, I worked deeply in network and cloud security, including:
   - Authentication systems, VPNs, and secure connectivity
   - Incident response and deep root cause analysis
 
-This background informs how I approach platform leadership:
-  - Security and reliability are designed in, not layered on
-  - Failure modes are explicit and owned
-  - Systems must hold up under real-world operational stress
-
 ### How I Think About Systems
 
   - Optimize for organizational leverage over local optimization
@@ -42,7 +39,7 @@ This background informs how I approach platform leadership:
   - Assume failure is normal and design systems that degrade predictably
   - Build platforms and operating models that can evolve without rewrites
 
-## Areas of Ongoing Interest
+## 🔭 Areas of Ongoing Interest
 
   - Platform orchestration and execution models at organizational scale
   - Workflow engines and execution semantics for complex systems
